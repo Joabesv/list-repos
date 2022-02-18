@@ -1,1 +1,1 @@
-# react-learnings
+# react github api consume
